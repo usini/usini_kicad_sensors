@@ -1,0 +1,4 @@
+MLX90614 by Kirill Avdeev   : https://grabcad.com/library/ir-thermo-sensor-hw-691-mlx90614-1
+BME680 by Alexei Kositsin   : https://grabcad.com/library/cjmcu-680-bme680-bosch-sensor-1
+BME280 by Bernard Hess      : https://grabcad.com/library/gy-bme280-6-pin-version-1
+BME280 Alt by Marcell Stoer : https://grabcad.com/library/gy-bme280-1

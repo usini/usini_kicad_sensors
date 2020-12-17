@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP module_mlx90614
+D Contact-less Infrared Sensor, this sensor measures infrared light bouncing off of remote objects so it can sense temperature without having to touch them physically.
+K infrared, temperature, sensor, raspberry pi, arduino, esp
+F https://www.adafruit.com/product/1747
+$ENDCMP
+#
+#End Doc Library
